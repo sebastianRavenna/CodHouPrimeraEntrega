@@ -1,0 +1,40 @@
+[
+  {
+    "id": "416f8fcf-03d4-4e72-b240-4788c31227e6",
+    "products": [
+      {
+        "product_id": "remera",
+        "quantity": 5
+      },
+      {
+        "product_id": "zapatilla",
+        "quantity": 2
+      },
+      {
+        "product_id": "otro",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "id": "78adf651-b5c8-4a83-82f6-5b719972beec",
+    "products": []
+  },
+  {
+    "id": "0d7b30bc-cf82-42be-bbc7-4b13a5c398a2",
+    "products": [
+      {
+        "product_id": "pelota",
+        "quantity": 4
+      }
+    ]
+  },
+  {
+    "id": "ba3451fa-868d-45c2-9c02-1ba6d5b2c512",
+    "products": []
+  },
+  {
+    "id": "953519cc-6952-413b-bcca-f14b1b71c690",
+    "products": []
+  }
+]
